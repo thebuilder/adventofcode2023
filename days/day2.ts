@@ -1,4 +1,4 @@
-import input from "./files/day2-input.txt";
+import input from "./files/day2.txt";
 
 function getDraws(draw: string) {
   // Split the string, like '"1 green", "2 red", "1 blue"' into an object by color

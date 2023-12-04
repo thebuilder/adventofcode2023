@@ -1,4 +1,4 @@
-import text from "./files/day1-input.txt";
+import text from "./files/day1.txt";
 
 const numbers = [
   "one",
